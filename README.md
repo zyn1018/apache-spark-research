@@ -26,7 +26,7 @@
   ### 7.1. Spark SQL核⼼数据结构—Dataframe #
   ### 7.2. Spark SQL 语句执⾏的查询优化框架—Catalyst #
   
-    ## 8. Spark Streaming #
+  ## 8. Spark Streaming #
 
   ### 8.1. DStream #
   ### 8.2. Spark Streaming工作原理 #
